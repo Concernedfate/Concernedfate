@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Concernedfate
-- 📫 How to reach me ... Jan Espenida fb name
+- 📫 How to reach me N/A
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
