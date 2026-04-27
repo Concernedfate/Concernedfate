@@ -1,19 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:10002B,50:240046,100:3C096C&text=Jan%20Marlo%20T.%20Espenida&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=JAN%20MARLO%20T.%20ESPENIDA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descAlignY=60&descSize=18&color=0:0D1117,25:240046,50:5A189A,75:3A86FF,100:00E5FF" />
 
-# 🎮 Hi, I'm Jan Marlo T. Espenida
+<h1>🎮 Hi, I'm Jan Marlo T. Espenida</h1>
+<h3>Also known online as <b>Concernedfate</b></h3>
 
-### Also known online as **Concernedfate**
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=1200&color=8BE9FD&center=true&vCenter=true&width=1000&lines=PLAYER+1%3A+JAN+MARLO+T.+ESPENIDA;ALIAS%3A+CONCERNEDFATE;CURRENT+QUEST%3A+BECOME+A+GAME+DEVELOPER;LEARNING%3A+C%23+AND+GAMEPLAY+PROGRAMMING;BUILDING%3A+INTERACTIVE+PORTFOLIO+PROJECTS" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&color=C084FC&lines=Aspiring+Game+Developer;Learning+C%23+and+Gameplay+Programming;Building+Interactive+Projects;Focused+on+Game+Systems+and+Mechanics" alt="Typing SVG" />
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/PLAYER%201-READY-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCUS-GAME%20DEVELOPMENT-06B6D4?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/LEARNING-C%23-84CC16?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/INTEREST-GAMEPLAY%20SYSTEMS-3B82F6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/BUILDING-PORTFOLIO%20PROJECTS-F59E0B?style=for-the-badge&labelColor=0D1117" />
 
-<img src="https://img.shields.io/badge/Focus-Game%20Development-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Learning-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Interest-Gameplay%20Systems-3B82F6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Building-Portfolio%20Projects-F59E0B?style=for-the-badge" />
+<br><br>
+
+<h3>🕹️ Leveling up in C#, gameplay programming, and interactive systems</h3>
 
 </div>
 
