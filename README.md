@@ -1,5 +1,20 @@
-# Hi, I'm Jan Marlo T. Espenida 👋
-Also known online as **Concernedfate**.
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Jan%20Marlo%20T.%20Espenida&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descSize=16&descAlignY=58" />
+
+# 🎮 Hi, I'm Jan Marlo T. Espenida
+
+### Also known online as **Concernedfate**
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Aspiring+Game+Developer;Gameplay+Systems+Enthusiast;Learning+Game+Logic+and+Mechanics;Building+a+Game-Focused+Portfolio" alt="Typing SVG" />
+</p>
+
+🎯 Building my path toward game development, one project at a time.
+
+</div>
+
+---
 
 I am an aspiring **Game Developer** and software development student currently focused on building interactive experiences, game systems, and creative digital projects. My earlier academic projects helped me build a foundation in programming and I am now shifting my full attention toward game development.
 
@@ -10,7 +25,6 @@ I enjoy learning how games are designed, programmed, and polished — from gamep
 - 🎮 Aspiring game developer building a game-focused portfolio
 - 💻 Currently improving my programming and software development skills
 - 🕹️ Interested in gameplay programming, game mechanics, and interactive systems
-- 🛠️ Focused on game development fundamentals and interactive project development
 - 🚀 Goal: To become a game developer and create fun, polished, and meaningful games
 
 ## Current Focus
