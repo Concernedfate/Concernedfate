@@ -1,31 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Jan%20Marlo%20T.%20Espenida&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descSize=16&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0f0c29,50:302b63,100:24243e&text=Jan%20Marlo%20T.%20Espenida&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descSize=18&descAlignY=60" />
 
 # 🎮 Hi, I'm Jan Marlo T. Espenida
 
-### Also known online as **Concernedfate**
+### `Concernedfate`
 
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7F52FF&center=true&vCenter=true&width=700&lines=Aspiring+Game+Developer;Gameplay+Systems+Enthusiast;Learning+Game+Logic+and+Mechanics;Building+a+Game-Focused+Portfolio" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Aspiring+Game+Developer;Learning+Gameplay+Programming;Building+Interactive+Projects;Leveling+Up+My+Game+Dev+Skills" alt="Typing SVG" />
 
-🎯 Building my path toward game development, one project at a time.
+<br><br>
+
+<img src="https://img.shields.io/badge/Focus-Game%20Development-8b5cf6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Interest-Gameplay%20Systems-3b82f6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Building-Portfolio%20Projects-f59e0b?style=for-the-badge" />
 
 </div>
 
 ---
 
-I am an aspiring **Game Developer** and software development student currently focused on building interactive experiences, game systems, and creative digital projects. My earlier academic projects helped me build a foundation in programming and I am now shifting my full attention toward game development.
+> 🕹️ I am an aspiring **Game Developer** and software development student currently focused on building interactive experiences, game systems, and creative digital projects. My earlier academic projects helped me build a foundation in programming, and I am now shifting my full attention toward game development.
 
-I enjoy learning how games are designed, programmed, and polished — from gameplay mechanics and player controls to user interfaces and interactive systems.
+> 🎯 I enjoy learning how games are designed, programmed, and polished — from gameplay mechanics and player controls to user interfaces and interactive systems.
 
-## About Me
+## 🎮 About Me
 
 - 🎮 Aspiring game developer building a game-focused portfolio
-- 💻 Currently improving my programming and software development skills
+- 💻 Software development student strengthening my programming foundation
 - 🕹️ Interested in gameplay programming, game mechanics, and interactive systems
-- 🚀 Goal: To become a game developer and create fun, polished, and meaningful games
+- 🛠️ Currently learning game development fundamentals through project-based practice
+- 🚀 Goal: To create fun, polished, and meaningful games
 
 ## Current Focus
 
