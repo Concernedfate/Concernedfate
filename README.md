@@ -1,4 +1,5 @@
-# Hi, I'm Concernedfate 👋
+# Hi, I'm Jan Marlo T. Espenida 👋
+Also known online as **Concernedfate**.
 
 I am an aspiring **Game Developer** and software development student currently focused on building interactive experiences, game systems, and creative digital projects. My earlier academic projects helped me build a foundation in programming and I am now shifting my full attention toward game development.
 
