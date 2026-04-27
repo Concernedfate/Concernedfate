@@ -69,7 +69,7 @@ I am currently building my foundation in programming and software development wh
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Concernedfate&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Concernedfate&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Concernedfate&layout=compact&theme=tokyonight&langs_count=8&size_weight=0.5&count_weight=0.5&v=2)
 
 ## Contact
 
