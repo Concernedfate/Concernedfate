@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=JAN%20MARLO%20T.%20ESPENIDA&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descAlignY=60&descSize=18&color=0:0D1117,25:240046,50:5A189A,75:3A86FF,100:00E5FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=PLAYER%201%20-%20JAN%20MARLO%20T.%20ESPENIDA&fontSize=34&fontAlignY=35&fontColor=ffffff&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descAlignY=58&descSize=19&animation=twinkling&color=0:0D1117,10:240046,22:5A189A,35:7B2CBF,50:3A86FF,65:00E5FF,78:38B000,90:FFBE0B,100:FF006E" />
 
 <h1>🎮 Hi, I'm Jan Marlo T. Espenida</h1>
 <h3>Also known online as <b>Concernedfate</b></h3>
