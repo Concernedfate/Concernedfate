@@ -1,27 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:0f0c29,50:302b63,100:24243e&text=Jan%20Marlo%20T.%20Espenida&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descSize=18&descAlignY=60" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:10002B,50:240046,100:3C096C&text=Jan%20Marlo%20T.%20Espenida&fontColor=ffffff&fontSize=42&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descAlignY=60&descSize=18" />
 
 # 🎮 Hi, I'm Jan Marlo T. Espenida
 
-### `Concernedfate`
+### Also known online as **Concernedfate**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1200&color=A855F7&center=true&vCenter=true&width=900&lines=Aspiring+Game+Developer;Learning+Gameplay+Programming;Building+Interactive+Projects;Leveling+Up+My+Game+Dev+Skills" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=850&color=C084FC&lines=Aspiring+Game+Developer;Learning+C%23+and+Gameplay+Programming;Building+Interactive+Projects;Focused+on+Game+Systems+and+Mechanics" alt="Typing SVG" />
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Focus-Game%20Development-8b5cf6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Focus-Game%20Development-8B5CF6?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learning-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/Interest-Gameplay%20Systems-3b82f6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Building-Portfolio%20Projects-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Interest-Gameplay%20Systems-3B82F6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Building-Portfolio%20Projects-F59E0B?style=for-the-badge" />
 
 </div>
 
 ---
 
-> 🕹️ I am an aspiring **Game Developer** and software development student currently focused on building interactive experiences, game systems, and creative digital projects. My earlier academic projects helped me build a foundation in programming, and I am now shifting my full attention toward game development.
+## ⚔️ Player Profile
 
-> 🎯 I enjoy learning how games are designed, programmed, and polished — from gameplay mechanics and player controls to user interfaces and interactive systems.
+I am an aspiring **Game Developer** and software development student currently focused on building interactive experiences, game systems, and creative digital projects.
+
+My earlier academic projects helped me build a foundation in programming, and I am now shifting my full attention toward **game development**.
+
+I enjoy learning how games are designed, programmed, and polished — from **gameplay mechanics** and **player controls** to **user interfaces** and **interactive systems**.
 
 ## 🎮 About Me
 
