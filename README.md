@@ -1,23 +1,49 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=340&section=header&text=PLAYER%201%20-%20JAN%20MARLO%20T.%20ESPENIDA&fontSize=34&fontAlignY=35&fontColor=ffffff&desc=Aspiring%20Game%20Developer%20%7C%20Concernedfate&descAlignY=58&descSize=19&animation=twinkling&color=0:0D1117,10:240046,22:5A189A,35:7B2CBF,50:3A86FF,65:00E5FF,78:38B000,90:FFBE0B,100:FF006E" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&section=header&text=PLAYER%201%20%7C%20JAN%20MARLO%20T.%20ESPENIDA&fontSize=32&fontAlignY=32&fontColor=ffffff&desc=ASPIRING%20GAME%20DEVELOPER%20%E2%80%A2%20CONCERNEDFATE%20%E2%80%A2%20CURRENT%20QUEST%3A%20LEVEL%20UP&descAlignY=56&descSize=16&animation=twinkling&color=0:0D1117,12:240046,24:3C096C,36:7209B7,48:3A0CA3,60:4361EE,72:00E5FF,84:38B000,92:FFBE0B,100:FF006E" />
 
 <h1>🎮 Hi, I'm Jan Marlo T. Espenida</h1>
-<h3>Also known online as <b>Concernedfate</b></h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=1200&color=8BE9FD&center=true&vCenter=true&width=1000&lines=PLAYER+1%3A+JAN+MARLO+T.+ESPENIDA;ALIAS%3A+CONCERNEDFATE;CURRENT+QUEST%3A+BECOME+A+GAME+DEVELOPER;LEARNING%3A+C%23+AND+GAMEPLAY+PROGRAMMING;BUILDING%3A+INTERACTIVE+PORTFOLIO+PROJECTS" alt="Typing SVG" />
+<h3>
+  <code>Concernedfate</code> • Aspiring Game Developer
+</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=14&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=PLAYER+1+READY;CURRENT+QUEST%3A+BECOME+A+GAME+DEVELOPER;LEVELING+UP%3A+C%23+%2B+GAMEPLAY+PROGRAMMING;BUILDING%3A+INTERACTIVE+PORTFOLIO+PROJECTS;NEXT+STAGE%3A+GAME+PROTOTYPES" alt="Typing SVG" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/PLAYER%201-READY-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/FOCUS-GAME%20DEVELOPMENT-06B6D4?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/LEARNING-C%23-84CC16?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/INTEREST-GAMEPLAY%20SYSTEMS-3B82F6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/BUILDING-PORTFOLIO%20PROJECTS-F59E0B?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CLASS-GAME%20DEV%20ROOKIE-FF006E?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/QUEST-BECOME%20A%20GAME%20DEVELOPER-00E5FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SKILL-C%23-84CC16?style=for-the-badge&logo=csharp&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FOCUS-GAMEPLAY%20SYSTEMS-3B82F6?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
-<h3>🕹️ Leveling up in C#, gameplay programming, and interactive systems</h3>
+<table>
+  <tr>
+    <td><b>🎯 Current Quest</b></td>
+    <td>Become a Game Developer</td>
+  </tr>
+  <tr>
+    <td><b>🕹️ Main Focus</b></td>
+    <td>Gameplay Programming, Game Logic, Interactive Systems</td>
+  </tr>
+  <tr>
+    <td><b>⚔️ Current Skill Tree</b></td>
+    <td>C#, OOP, Game Development Fundamentals</td>
+  </tr>
+  <tr>
+    <td><b>🚀 Next Stage</b></td>
+    <td>Build game prototypes and portfolio projects</td>
+  </tr>
+</table>
+
+<br>
+
+<h3>🕹️ Leveling up one project at a time.</h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FF006E,20:FFBE0B,40:38B000,60:00E5FF,80:7209B7,100:0D1117" />
 
 </div>
 
