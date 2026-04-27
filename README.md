@@ -24,15 +24,20 @@ I enjoy learning how games are designed, programmed, and polished — from gamep
 
 ## Tech Stack
 
-### Current Focus
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Game%20Development](https://img.shields.io/badge/Game%20Development-Portfolio%20Focus-blue?style=for-the-badge)
-
-### Previous Tools & Experience
+### Main Programming Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Current Direction
+![Game%20Development](https://img.shields.io/badge/Game%20Development-Portfolio%20Focus-blue?style=for-the-badge)
+![Gameplay%20Programming](https://img.shields.io/badge/Gameplay%20Programming-Learning-green?style=for-the-badge)
+
+### Tools I Have Used
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 ## Previous Academic Projects
 
