@@ -1,6 +1,6 @@
 <div align="center">
-
-<img width="100%" src="assets/player1-banner.png" alt="PLAYER 1 | JAN MARLO T. ESPENIDA banner" />
+  
+<img width="100%" src="assets/player1-banner-moving.gif" alt="PLAYER 1 | JAN MARLO T. ESPENIDA animated banner" />
 
 <h1>🎮 Hi, I'm Jan Marlo T. Espenida</h1>
 <h3>Also known online as <b>Concernedfate</b></h3>
